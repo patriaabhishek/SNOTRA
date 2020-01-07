@@ -1,6 +1,8 @@
 # SNOTRA
 Scalable Neighbor-based Online Textbook Recommendation Application 
 
+We have built a hybrid book recommendation engine using content based filtering and collaborative filtering approach by developing an algorithm that leverages Cosine Similarity Index and KNN normalized ratings for the user-to-user collaborative filtering technique and Term Frequency Inverse Document Frequency of the abstract and reviews of each book.
+
 To run the code, clone the repository and go the folder codebase: 
 
 ## Data Fetch
